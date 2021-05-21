@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: black;
+}
+
+.bloquetitulo {
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-family: unset;
+    color: turquoise;
+    
+}
+
+.parrafotitulo1 {
+    letter-spacing: 1px;
+    font-family: unset;
+    color: white;
+    margin-top: -30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.iconosinte {
+    padding-top: 55px;
+
+}
+
+
+
+.bloquetitulo2 {
+    width: 100%;
+    display: inline-block;
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+    font-family:unset;
+    text-align:center;
+    background-image: url(../imagenes/imagen3.jpg); 
+    background-attachment: fixed;
+    background-size: 100% ;
+}
+
+.parrafotitulo2 {
+    letter-spacing: 1px;
+    font-family: unset;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    margin-left: 100px;
+    margin-top: 15px;
+    text-align: justify;
+    font-size: 30px;
+    float: center;
+
+}
+
+.pfotografia {
+    text-align: center;
+    font-size: 40px;
+    color: turquoise;
+    padding-bottom: 15%;
+}
+
+
+
+
+.bloquetitulo3 {
+    text-align: center;
+    font-size: 40px;
+    color: turquoise;
+    padding-bottom: 10%;
+}
+
+.parrafotitulo3{
+    letter-spacing: 1px;
+    font-family: unset;
+    color: white;
+    margin: 50px 100px;
+    text-align:justify;
+    font-size: 25px;
+    padding-bottom: 10px;
+  
+}
+
+.fotografia {
+    width: 200px;
+    display: block;
+    margin: 110px auto;
+    border-radius: 15px;
+}
+
+.pfotografia {
+    width: 800px;
+    margin: -50px auto;
+    border-radius: 15px;
+}
